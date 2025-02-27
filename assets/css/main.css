@@ -4214,21 +4214,21 @@ input, select, textarea {
 		}
 
 .content {
-			display: flex;
-			align-items: center;
-			gap: 20px; /* Adjust spacing */
-		}
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
 		
-		.text {
-			flex: 1;
-		}
-		
-		.image img {
-			width: 150px; /* Adjust size as needed */
-			height: auto;
-			border-radius: 10px; /* Optional: makes the image rounded */
-		}
-		
-		.interests {
-			margin-top: 20px;
-		}
+.text {
+    flex: 1;
+}
+
+.image img {
+    width: 150px;
+    height: auto;
+    border-radius: 10px;
+}
+
+.interests {
+    margin-top: 20px;
+}
